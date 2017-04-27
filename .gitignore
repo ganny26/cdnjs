@@ -71,7 +71,7 @@ node_modules/
 /ajax/libs/jquery-ui-timepicker-addon/0.0.0-ignored/
 /ajax/libs/jsrender/*/jsrender-node.js
 /ajax/libs/typescript/*/typescriptServices.js
-/ajax/libs/typescript/2.0.6-insiders.20161017
+/ajax/libs/typescript/*insiders*
 /ajax/libs/froala-editor/froala_editor_1.0.3/
 /ajax/libs/froala-editor/v.1.0.5/
 /ajax/libs/min/1.5
@@ -173,7 +173,8 @@ node_modules/
 /ajax/libs/plottable.js/v.0.18.0
 /ajax/libs/plottable.js/v.2.4.1
 /ajax/libs/plottable.js/*-hover-tooltip*
-/ajax/libs/plottable.js/3.0.0-rc.1
+/ajax/libs/plottable.js/3.0.0-*-g*
+/ajax/libs/plottable.js/*-dev-*
 /ajax/libs/jQRangeSlider/latest/
 /ajax/libs/material-design-icons/2.0
 /ajax/libs/randomcolor/0.2
