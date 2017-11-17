@@ -1,6 +1,6 @@
 {
   "name": "framework7",
-  "version": "1.6.0",
+  "version": "1.6.5",
   "description": "Full Featured Mobile HTML Framework For Building iOS & Android Apps",
   "filename": "js/framework7.min.js",
   "repository": {
@@ -38,7 +38,7 @@
       {
         "basePath": "dist",
         "files": [
-          "**/framework7*",
+          "**/framework7!(.module|.modular)*",
           "img/**/*.+(png|svg)"
         ]
       }
